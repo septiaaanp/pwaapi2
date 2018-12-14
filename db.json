@@ -1,0 +1,24 @@
+{
+"products" : [
+{"id":1,"name":"Black-backed jackal","category":"Yellow"},
+{"id":2,"name":"Elegant crested tinamou","category":"Blue"},
+{"id":3,"name":"Chilean flamingo","category":"Purple"},
+{"id":4,"name":"Common nighthawk","category":"Mauv"},
+{"id":5,"name":"Sandpiper, spotted wood","category":"Indigo"},
+{"id":6,"name":"Pine siskin","category":"Puce"},
+{"id":7,"name":"Jungle kangaroo","category":"Khaki"},
+{"id":8,"name":"Cockatoo, red-breasted","category":"Fuscia"},
+{"id":9,"name":"Cat, tiger","category":"Orange"},
+{"id":10,"name":"Carpet python","category":"Turquoise"},
+{"id":11,"name":"Topi","category":"Khaki"},
+{"id":12,"name":"Asian red fox","category":"Maroon"},
+{"id":13,"name":"Lizard, goanna","category":"Blue"},
+{"id":14,"name":"Silver-backed jackal","category":"Yellow"},
+{"id":15,"name":"Steller sea lion","category":"Pink"},
+{"id":16,"name":"Australian spiny anteater","category":"Orange"},
+{"id":17,"name":"Snake, racer","category":"Crimson"},
+{"id":18,"name":"Fork-tailed drongo","category":"Blue"},
+{"id":19,"name":"Nile crocodile","category":"Mauv"},
+{"id":20,"name":"Turkey vulture","category":"Pink"}
+]
+}
